@@ -1,0 +1,3 @@
+name: Captcha
+version: 1.0
+main: de.rbredstone.captcha.main.main
